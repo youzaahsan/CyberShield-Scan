@@ -1,0 +1,6 @@
+{
+  "name": "CyberShield Scan",
+  "description": "Authorized defensive Network Vulnerability Assessment and Reporting Tool featuring in-house scanning, CVE intelligence, ML risk scoring, and interactive topology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
